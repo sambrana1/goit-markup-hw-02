@@ -1,5 +1,10 @@
 
-P{}
+.WEB{color: var(--IRIS, #4D5AE5);
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 800;}
+
 .link{text-decoration: none;}
 .body{font-family: Roboto;
 font-size: 16px;
