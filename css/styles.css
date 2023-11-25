@@ -1,11 +1,16 @@
 :root
-.logo-style {
+.list {
   font-family: 'raleway', sans-serif;
-  font-weight: 800;
+  font-weight: 500;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+
 }
 .link{text-decoration: none;}
+.contact-color{ color: #434455;}
+.contacts-color:hover{color: #404bbf;}
+.contact-color:focus{color:#404bbf}
+.contact-color:active{color:#404bbf}
