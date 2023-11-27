@@ -47,9 +47,6 @@
 .item-list link:focus {
   color: #404bbf;
 }
-.info{
-
-}
 .contacts {
   font-style: normal;
 }
@@ -77,14 +74,11 @@
   letter-spacing: 0.04em;
   color:#ffffff
   
+}
 
-}
-.button:hover{
-  color: #404BBF
-}
-.button:focus{
-  #404BBF
-}
+ 
+.button:focus{color:#404BBF}
+.button:hover{color: #404BBF}
 .target{
   font-weight: 500;
   font-size: 20px;
