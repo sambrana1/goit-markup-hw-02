@@ -2,7 +2,6 @@
   --sample: #ffffff;
   --color1: #4d5ae5;
   --color2: #2e2f42;
-  
 }
 body {
   font-family: 'Roboto', sans-serif;
@@ -24,20 +23,22 @@ body {
 .logo-span {
   color: var(--color2);
 }
-.item-list{
+.item-list {
   list-style: none;
 }
-.item-list{
+.item-list {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color:var(--color2)
-
+  color: var(--color2);
 }
-.item-list:hover{
+.item-list:hover {
   color: #404bbf;
 }
-.item-list link:focus{
-  color:#404bbf;
+.item-list link:focus {
+  color: #404bbf;
+}
+.information {
+  font-style: none;
 }
