@@ -74,10 +74,10 @@ body {
   color:#ffffff
 
 }
-.botton :hover{
+.botton:hover{
   color: #404BBF
 }
-.botton :focus{
+.botton:focus{
   #404BBF
 }
 
