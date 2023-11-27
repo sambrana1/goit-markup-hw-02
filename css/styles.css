@@ -1,13 +1,13 @@
-:root{
+:root {
   --sample: #ffffff;
   --color1: #4d5ae5;
   --color2: #2e2f42;
   --color3: #434455;
 }
-.body{
-  font-family: "Roboto", sans-serif;
- text-decoration:  #434455 ;
- background-color: var(--sample)
+.body {
+  font-family: 'Roboto', sans-serif;
+  text-decoration: #434455;
+  background-color: var(--sample);
 }
 
 .logo {
@@ -72,25 +72,25 @@
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color:#ffffff
-  
+  color: #ffffff;
 }
 
- 
-.button:focus{color:#404BBF}
-.button-hover:hover{color: #404BBF}
-.target{
+.button:focus {
+  color: #404bbf;
+}
+.button-hover:hover {
+  color: #404bbf;
+}
+.target {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-color: #2e2f42;
-
+  color: #2e2f42;
 }
-.goals{
+.goals {
   line-height: 1.5;
   letter-spacing: 0.02em;
-
 }
 
 .products {
@@ -104,6 +104,6 @@ color: #2e2f42;
 .h2 {
   letter-spacing: 0.02em;
 }
-.my-team{
-  background-color: #F4F4FD;
+.my-team {
+  background-color: #f4f4fd;
 }
