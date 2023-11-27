@@ -50,6 +50,9 @@
 .item-list link:focus {
   color: #404bbf;
 }
+.info{
+  font-style: none;
+}
 .contacts {
   font-style: normal;
 }
@@ -58,6 +61,7 @@
   letter-spacing: 0.02em;
   color: var(--color3);
 }
+
 .secone {
   background-color: #2e2f42;
 }
