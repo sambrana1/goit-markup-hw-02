@@ -38,6 +38,6 @@ body {
 .item-list:hover{
   color: #404bbf;
 }
-.item-list:focus{
+.item-list link:focus{
   color:#404bbf;
 }
