@@ -3,12 +3,7 @@
   --color1: #4d5ae5;
   --color2: #2e2f42;
   --color3: #434455;
-  --color4:  #f4f4fd
-}
-.body {
-  font-family: 'Roboto', sans-serif;
-  color: #434455;
-  background-color: var(--sample);
+  --color4: #f4f4fd;
 }
 
 .logo {
