@@ -20,14 +20,12 @@ body {
 }
 .list {
   list-style: none;
-
 }
 .link {
   text-decoration: none;
 }
 .logo-span {
   color: var(--color2);
-
 }
 
 .item-list {
