@@ -40,10 +40,10 @@ body {
   color: var(--color2);
   font-weight: 500;
 }
-.list:hover {
+.item-list link:hover {
   color: #404bbf;
 }
-.list:focus {
+.item-list link:focus {
   color: #404bbf;
 }
 .contacts {
