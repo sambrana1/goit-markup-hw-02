@@ -1,26 +1,25 @@
- :root{
---sample:#ffffff;
---color1: #4d5ae5;
---color2:#2e2f42;
- }
+:root {
+  --sample: #ffffff;
+  --color1: #4d5ae5;
+  --color2: #2e2f42;
+}
 body {
   font-family: 'Roboto', sans-serif;
-  color:#434455 ;
-  background-color: #FFFFFF;
-
+  color: #434455;
+  background-color: #ffffff;
 }
-.logo{
+.logo {
   font-family: 'Raleway', sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-color:var(--color1);
+  color: var(--color1);
 }
-.link{
+.link {
   text-decoration: none;
 }
-.span{
-color:var(--color2)
+.logo-span {
+  color: var(--color2);
 }
