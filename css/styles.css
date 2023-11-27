@@ -45,3 +45,6 @@ body {
 .list:focus {
   color: #404bbf;
 }
+.info {
+  font-style: normal;
+}
