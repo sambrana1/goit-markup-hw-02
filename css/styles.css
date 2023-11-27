@@ -4,13 +4,13 @@
   --color2: #2e2f42;
   --color3: #434455;
 }
-.body {
-  font-family: 'Roboto', sans-serif;
-  text-decoration: #434455;
+.body{
+  font-family: "Roboto", sans-serif;
+  color: #434455;
   background-color: var(--sample);
 }
 
-.logo {
+.logo{
   font-family: 'Raleway', sans-serif;
   font-weight: 800;
   font-size: 18px;
@@ -19,13 +19,13 @@
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.list {
+.list{
   list-style: none;
 }
-.link {
+.link{
   text-decoration: none;
 }
-.logo-span {
+.logo-span{
   color: var(--color2);
 }
 
