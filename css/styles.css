@@ -39,6 +39,8 @@ body {
   letter-spacing: 0.02em;
   color: var(--color2);
   font-weight: 500;
+  hover:var(--color2)
+  focusing:var(--color2)
 }
 .item-list link:hover {
   color: #404bbf;
