@@ -17,4 +17,8 @@ body {
   text-transform: uppercase;
 color:var(--color1);
 }
+.link{
+  text-decoration: none;
+  
+}
 
