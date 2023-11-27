@@ -35,3 +35,6 @@ body {
   color:var(--color2)
 
 }
+.item-list:hover{
+  color: #404bbf;
+}
