@@ -2,6 +2,7 @@
   --sample: #ffffff;
   --color1: #4d5ae5;
   --color2: #2e2f42;
+  --color3:
 }
 body {
   font-family: 'Roboto', sans-serif;
@@ -47,4 +48,9 @@ body {
 }
 .contacts {
   font-style: normal;
+}
+.contact-link{
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+
 }
