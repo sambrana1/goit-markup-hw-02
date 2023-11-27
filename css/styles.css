@@ -24,7 +24,7 @@ body {
 .logo-span {
   color: var(--color2);
 }
-.list{
+.item-list{
   list-style: none;
 }
 .item-list{
