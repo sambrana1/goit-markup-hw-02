@@ -5,10 +5,10 @@
   --color3: #434455;
   --color4: #f4f4fd;
 }
-*{
+.body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
-  background-color: var(--color);
+  background-color: var(--color1);
 }
 .logo {
   font-family: 'Raleway', sans-serif;
@@ -141,6 +141,6 @@
 }
 .customer {
   line-height: 1.5;
-  color: va(--color4);
   letter-spacing: 0.02em;
+  color: var(--color4);
 }
