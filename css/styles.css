@@ -39,9 +39,9 @@ body {
   color: var(--color2);
   font-weight: 500;
 }
-.item-list:hover {
+.list:hover {
   color: #404bbf;
 }
-.item-list link:focus {
+.list:focus {
   color: #404bbf;
 }
