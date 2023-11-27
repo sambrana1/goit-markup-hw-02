@@ -2,7 +2,7 @@
   --sample: #ffffff;
   --color1: #4d5ae5;
   --color2: #2e2f42;
-  --color3:#2e2f42;
+  
 }
 body {
   font-family: 'Roboto', sans-serif;
@@ -32,6 +32,6 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color:var(--color3)
+  color:var(--color2)
 
 }
