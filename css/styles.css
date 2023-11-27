@@ -5,9 +5,9 @@
   --color3: #434455;
 }
 .body{
-  font-family: "Roboto", sans-serif ;
-  color: #434455;
-   background-color: #FFFFFF
+  font-family: "Roboto", sans-serif;
+ text-decoration:  #434455 ;
+   background-color: var(--sample)
    
 }
 
