@@ -20,13 +20,14 @@ body {
 }
 .list {
   list-style: none;
-  font-weight: 500;
+
 }
 .link {
   text-decoration: none;
 }
 .logo-span {
   color: var(--color2);
+
 }
 
 .item-list {
@@ -38,6 +39,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--color2);
+  font-weight: 500;
 }
 .item-list:hover {
   color: #404bbf;
