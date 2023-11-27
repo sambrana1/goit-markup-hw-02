@@ -4,13 +4,13 @@
   --color2: #2e2f42;
   --color3: #434455;
 }
-.body{
-  font-family: "Roboto", sans-serif;
+.body {
+  font-family: 'Roboto', sans-serif;
   color: #434455;
   background-color: var(--sample);
 }
 
-.logo{
+.logo {
   font-family: 'Raleway', sans-serif;
   font-weight: 800;
   font-size: 18px;
@@ -19,13 +19,13 @@
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.list{
+.list {
   list-style: none;
 }
-.link{
+.link {
   text-decoration: none;
 }
-.logo-span{
+.logo-span {
   color: var(--color2);
 }
 
@@ -122,10 +122,15 @@
   text-transform: capitalize;
   color: #2e2f42;
 }
-.my-photo {
+
+.photo-pc {
   background-color: #ffffff;
 }
-.photo-pc {
+.product-designer {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 .my-footer {
   background-color: #2e2f42;
@@ -138,4 +143,5 @@
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
