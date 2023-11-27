@@ -78,7 +78,7 @@
 
  
 .button:focus{color:#404BBF}
-.button:hover{color: #404BBF}
+.button-hover:hover{color: #404BBF}
 .target{
   font-weight: 500;
   font-size: 20px;
