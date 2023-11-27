@@ -3,6 +3,7 @@
   --color1: #4d5ae5;
   --color2: #2e2f42;
   --color3: #434455;
+  --color4:  #f4f4fd
 }
 .body {
   font-family: 'Roboto', sans-serif;
@@ -141,6 +142,6 @@
 }
 .customer {
   line-height: 1.5;
-  color: #f4f4fd;
+  color: va(--color4);
   letter-spacing: 0.02em;
 }
