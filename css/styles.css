@@ -54,6 +54,16 @@ body {
   letter-spacing: 0.02em;
   color: var(--color3);
 }
+.secone{
+  background-color: #2e2f42;
+}
+.solution{
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
 
 .products {
   font-size: 36px;
