@@ -23,3 +23,6 @@ body {
 .logo-span {
   color: var(--color2);
 }
+.list{
+  list-style: none;
+}
