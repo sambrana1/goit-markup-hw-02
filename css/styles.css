@@ -9,7 +9,6 @@ body {
   background-color: #ffffff;
 }
 
-
 .logo {
   font-family: 'Raleway', sans-serif;
   font-weight: 800;
@@ -19,8 +18,9 @@ body {
   text-transform: uppercase;
   color: var(--color1);
 }
-.list{
+.list {
   list-style: none;
+  font-weight: 500;
 }
 .link {
   text-decoration: none;
@@ -45,5 +45,3 @@ body {
 .item-list link:focus {
   color: #404bbf;
 }
-
-
