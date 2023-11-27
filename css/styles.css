@@ -50,8 +50,8 @@
 .item-list link:focus {
   color: #404bbf;
 }
-.info{
-  font-style: none;
+.info {
+  font-style: normal;
 }
 .contacts {
   font-style: normal;
