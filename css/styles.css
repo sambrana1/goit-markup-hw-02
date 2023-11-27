@@ -64,7 +64,7 @@ body {
   letter-spacing: 0.02em;
   color: #ffffff;
 }
-.botton {
+.button {
   background-color: #4d5ae5;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
@@ -74,10 +74,10 @@ body {
   color:#ffffff
 
 }
-.botton:hover{
+.button:hover{
   color: #404BBF
 }
-.botton:focus{
+.button:focus{
   #404BBF
 }
 .target{
@@ -91,7 +91,7 @@ color: #2e2f42;
 .goals{
   line-height: 1.5;
   letter-spacing: 0.02em;
-  
+
 }
 
 .products {
