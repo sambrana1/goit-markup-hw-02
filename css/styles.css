@@ -1,4 +1,4 @@
-:root {
+:root{
   --sample: #ffffff;
   --color1: #4d5ae5;
   --color2: #2e2f42;
@@ -7,8 +7,7 @@
 .body{
   font-family: "Roboto", sans-serif;
  text-decoration:  #434455 ;
-   background-color: var(--sample)
-   
+ background-color: var(--sample)
 }
 
 .logo {
