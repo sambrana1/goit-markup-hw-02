@@ -2,7 +2,7 @@
   --sample: #ffffff;
   --color1: #4d5ae5;
   --color2: #2e2f42;
-  --color3: #434455
+  --color3: #434455;
 }
 body {
   font-family: 'Roboto', sans-serif;
@@ -39,8 +39,6 @@ body {
   letter-spacing: 0.02em;
   color: var(--color2);
   font-weight: 500;
-  
-  
 }
 .item-list link:hover {
   color: #404bbf;
@@ -51,30 +49,17 @@ body {
 .contacts {
   font-style: normal;
 }
-.contact-link{
+.contact-link {
   line-height: 1.5;
   letter-spacing: 0.02em;
-color:var(--color3)
+  color: var(--color3);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-.products{
+.products {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  color:#2e2f42
+  color: #2e2f42;
 }
